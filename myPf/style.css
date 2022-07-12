@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    color: rgb(23, 23, 22);
+}
+
+header{
+    background-color: rgb(118, 216, 109);
+    color: rgb(10, 10, 10);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: inherit;
+    font-size: x-large;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+section{
+    background-color: bisque;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    margin-bottom: 5px;
+}
+.root{
+    margin-top: px;
+}
+.fc{
+    font-size: larger;
+}
+.me{
+    margin-top: 5;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+img{
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
